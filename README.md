@@ -1,6 +1,6 @@
 # Cotizador de préstamos
 
-![](./screenshot.jpg)
+<img src="./screenshot.jpg" alt="#" width="300"/>
 
 - Cotizador de préstamos reactivo con React Native, empezando
 
